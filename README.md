@@ -32,6 +32,4 @@
 
 <br><br>
 
-# Code snippets
 
-https://github.com/HR-CMGT/PRG04-2024-2025/blob/main/opdrachten/les7.md
