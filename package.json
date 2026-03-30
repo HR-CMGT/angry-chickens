@@ -1,16 +1,16 @@
 {
-  "name": "een-kip-op-een-vlot",
+  "name": "angry-chickens",
   "author": "cmgt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build --outDir=docs --base=./"
   },
   "devDependencies": {
-    "vite": "^6.3.5"
+    "vite": "^8.0.3"
   },
   "dependencies": {
-    "excalibur": "^0.30.3"
+    "excalibur": "^0.32.0"
   }
 }
